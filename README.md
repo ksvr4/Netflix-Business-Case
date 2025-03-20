@@ -9,5 +9,5 @@ Trends in content release by country.
 Improve Notebook Readability:
 
 Add markdown cells to explain each section.
-Include visualizations (if missing).
+Include visualizations.
 Write a conclusion section summarizing findings.
